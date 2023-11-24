@@ -1,13 +1,16 @@
 <img src='timdecool_header.png' alt="readme header">
+<div style="text-align: center;">
 
 # Bienvenue à tou·te·s 👋
+</div>
+
 À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des petits projets personnels. Bonne visite !
 
 ## Ce qu'on peut trouver ici 📖
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir. 👇
 
 ### Des jeux en JavaScript 🎲
-Depuis le début de mon apprentissage, construire des petits jeux a été l'une de mes activités de choix pour développer ma logique algorithmique et ma connaissance de JavaScript. Pas forcément finalisés en termes d'interface, mais toujours opérationnels sur le coeur des mécanique de jeu :
+Depuis le début de mon apprentissage, construire des petits jeux a été l'une de mes activités de choix pour développer ma logique algorithmique et ma connaissance de JavaScript. Pas forcément finalisés en termes d'interface, mais toujours opérationnels sur le coeur des mécaniques de jeu :
 <a href="https://github.com/timdecool/wordle" target="_blank">Wordle</a> -
 <a href="https://github.com/timdecool/mastermind" target="_blank">Mastermind</a> -
 <a href="https://github.com/timdecool/typing-game" target="_blank">Typing game</a> -
@@ -27,6 +30,8 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
 <a href="https://github.com/timdecool/integration-training" target="_blank">Intégration d'une maquette sans l'aide d'une librairie</a>
 
 ## Mes outils de travail 🛠️
+<div style="display: flex; justify-content:space-around;">
+
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img
@@ -98,6 +103,7 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
     height="36"
     alt="Git"
   />
+</div>
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
