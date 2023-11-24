@@ -1,4 +1,7 @@
-<img src='timdecool_header.png' alt="readme header">
+<div align="center">
+    <img src='timdecool_header.png' alt="readme header">
+</div>
+
 ### Salut à tou·te·s ! 👋
 
 <!--
