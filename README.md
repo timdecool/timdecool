@@ -32,10 +32,10 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
 ## Mes outils de travail 🛠️
 
 <div style="display: flex; justify-content:space-around;">
-    <div>
+<div>
 
  ### Frontend
-        <div style="display: flex; flex-wrap: wrap; gap: 10px">
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
         <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
             width="36"
