@@ -1,8 +1,10 @@
 <div align="center">
-    <img src='timdecool_header.png' alt="readme header">
-</div>
+<img src='timdecool_header.png' alt="readme header">
 
 ### Salut à tou·te·s ! 👋
+- À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. 
+</div>
+
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
