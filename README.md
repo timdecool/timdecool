@@ -4,9 +4,9 @@
 # Bienvenue à tou·te·s 👋
 </div>
 
-À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des projets personnels. Bonne visite !
+À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion professionnelle. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des projets personnels. Bonne visite !
 
-## Ce qu'on peut trouver ici 📖
+## Ce que tu peux trouver ici 📖
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir. 👇
 
 ### Des jeux en JavaScript 🎲
@@ -111,21 +111,3 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
 </div>
 
 </div>
-
-
-
-
-<!--
-**timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
