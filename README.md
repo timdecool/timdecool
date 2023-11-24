@@ -4,7 +4,7 @@
 # Bienvenue à tou·te·s 👋
 </div>
 
-À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des petits projets personnels. Bonne visite !
+À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des projets personnels. Bonne visite !
 
 ## Ce qu'on peut trouver ici 📖
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir. 👇
@@ -30,54 +30,57 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
 <a href="https://github.com/timdecool/integration-training" target="_blank">Intégration d'une maquette sans l'aide d'une librairie</a>
 
 ## Mes outils de travail 🛠️
-<div style="display: flex; flex-direction:row; justify-content:space-around;">
 
-### Frontend
-<div style="display: flex; flex-wrap: wrap; gap: 10px">
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-    width="36"
-    height="36"
-    alt="HTML5"
-  />
-    <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-    width="36"
-    height="36"
-    alt="CSS3"
-  />
-    <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-    width="32"
-    height="32"
-    alt="JavaScript"
-  />
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
-    width="36"
-    height="36"
-    alt="Vue"
-  />
-  <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-    width="36"
-    height="36"
-    alt="Bootstrap"
-  />
-   <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
-    width="36"
-    height="36"
-    alt="Sass"
-  />
-<img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-    width="36"
-    height="36"
-    alt="Figma"
-  />
-</div>
+<div style="display: flex; justify-content:space-around;">
+    <div>
 
+ ### Frontend
+        <div style="display: flex; flex-wrap: wrap; gap: 10px">
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+            width="36"
+            height="36"
+            alt="HTML5"
+        />
+            <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+            width="36"
+            height="36"
+            alt="CSS3"
+        />
+            <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            width="32"
+            height="32"
+            alt="JavaScript"
+        />
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+            width="36"
+            height="36"
+            alt="Vue"
+        />
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+            width="36"
+            height="36"
+            alt="Bootstrap"
+        />
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+            width="36"
+            height="36"
+            alt="Sass"
+        />
+        <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+            width="36"
+            height="36"
+            alt="Figma"
+        />
+        </div>
+    </div>
+    <div>
 ### Backend
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
@@ -104,7 +107,14 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
     alt="Git"
   />
 </div>
+
+
+    </div>
+
 </div>
+
+
+
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
