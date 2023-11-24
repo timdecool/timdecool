@@ -1,5 +1,5 @@
 <img src='timdecool_header.png' alt="readme header">
-<div style="text-align: center;">
+<div style="align: center;">
 
 # Bienvenue à tou·te·s 👋
 </div>
@@ -30,7 +30,7 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
 <a href="https://github.com/timdecool/integration-training" target="_blank">Intégration d'une maquette sans l'aide d'une librairie</a>
 
 ## Mes outils de travail 🛠️
-<div style="display: flex; justify-content:space-around;">
+<div style="display: flex; flex-direction:row; justify-content:space-around;">
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
