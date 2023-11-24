@@ -1,5 +1,5 @@
 <img src='timdecool_header.png' alt="readme header">
-<div style="align: center;">
+<div align="center">
 
 # Bienvenue à tou·te·s 👋
 </div>
@@ -103,6 +103,7 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
     height="36"
     alt="Git"
   />
+</div>
 </div>
 
 <!--
