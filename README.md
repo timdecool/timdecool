@@ -80,7 +80,8 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
         />
         </div>
     </div>
-    <div>
+<div>
+
 ### Backend
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
@@ -107,9 +108,7 @@ Pour pratiquer les bases, HTML, CSS, JavaScript, les librairies (et notamment Bo
     alt="Git"
   />
 </div>
-
-
-    </div>
+</div>
 
 </div>
 
