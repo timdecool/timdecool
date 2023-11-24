@@ -5,6 +5,9 @@
 À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre véritablement l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation et des petits projets personnels. Bonne visite !
 </div>
 
+### Ce qu'on peut trouver ici
+
+
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
