@@ -9,8 +9,50 @@
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir :
 
 ### Mes outils de travail 🛠️
-
-
+- Front : 
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+    width="36"
+    height="36"
+    alt="HTML5"
+  />
+    <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+    width="36"
+    height="36"
+    alt="CSS3"
+  />
+    <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+    width="32"
+    height="32"
+    alt="JavaScript"
+  />
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg"
+    width="36"
+    height="36"
+    alt="Vue"
+  />
+<img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+    width="36"
+    height="36"
+    alt="Figma"
+  />
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
+    width="36"
+    height="36"
+    alt="Bootstrap"
+  />
+   <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+    width="36"
+    height="36"
+    alt="Sass"
+  />
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
