@@ -9,7 +9,7 @@
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir :
 
 ### Mes outils de travail 🛠️
-- Front : 
+- Frontend : 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
@@ -35,12 +35,6 @@ Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire de
     height="36"
     alt="Vue"
   />
-<img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-    width="36"
-    height="36"
-    alt="Figma"
-  />
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
     width="36"
@@ -53,6 +47,35 @@ Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire de
     height="36"
     alt="Sass"
   />
+<img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+    width="36"
+    height="36"
+    alt="Figma"
+  />
+</div>
+
+- Backend : 
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px">
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+    width="32"
+    height="32"
+    alt="PHP"
+  />
+  <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" 
+     width="36"
+     height="36" 
+     alt="Symfony"
+  />
+  <img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+    width="36"
+    height="36"
+    alt="MySQL"
+  />
+  
+
 
 <!--
 **timdecool/timdecool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
