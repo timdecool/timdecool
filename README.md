@@ -7,7 +7,7 @@
 À l'âge de 28 ans, après quelques années en science politique et dans le monde associatif, je découvre l'univers du développement web. Je m'en passionne vite et m'engage dans une reconversion professionnelle. Ce profil GitHub rassemble des travaux effectués dans le cadre de ma formation professionnelle et de mes projets personnels. Bonne visite !
 
 ## À la une 📰
-Mon dernier projet en date est plus ambitieux que les précédents, présenté dans le cadre de ma soutenance pour l'obtention d'un titre de développeur web. L'application web s'appelle *TACT* et permet d'organiser et de coordonner des collectifs par la mise en commun des calendrier et un espace conçu pour organiser des événements au sein de ces collectifs. Pour ce projet, j'ai réalisé une Single Page Application avec Vue que j'ai connectée avec un backend API développé avec Symfony. Un MVP est déjà disponible en ligne, et les prochaines étapes permettront d'affiner et d'améliorer le produit de base.
+Mon dernier projet en date est plus ambitieux que les précédents, présenté dans le cadre de ma soutenance pour l'obtention d'un titre de développeur web. L'application web s'appelle **TACT** et permet d'organiser et de coordonner des collectifs par la mise en commun des calendrier et un espace conçu pour organiser des événements au sein de ces collectifs. Pour ce projet, j'ai réalisé une Single Page Application avec Vue que j'ai connectée avec un backend API développé avec Symfony. Un MVP est déjà disponible en ligne, et les prochaines étapes permettront d'affiner et d'améliorer le produit de base.
 
 Pour découvrir ce projet, cliquez <a href="https://tact-chi.vercel.app" target="_blank">ici</a> !
 
