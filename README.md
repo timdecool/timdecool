@@ -9,8 +9,7 @@
 ## À la une 📰
 Mon dernier projet en date est plus ambitieux que les précédents, présenté dans le cadre de ma soutenance pour l'obtention d'un titre de développeur web. L'application web s'appelle **TACT** et permet d'organiser et de coordonner des collectifs par la mise en commun des calendrier et un espace conçu pour organiser des événements au sein de ces collectifs. Pour ce projet, j'ai réalisé une Single Page Application avec Vue que j'ai connectée avec un backend API développé avec Symfony. Un MVP est déjà disponible en ligne, et les prochaines étapes permettront d'affiner et d'améliorer le produit de base.
 
-Pour découvrir ce projet, cliquez <a href="https://tact-chi.vercel.app" target="_blank">ici</a> !
-
+Pour découvrir ce projet, clique <a href="https://tact-chi.vercel.app" target="_blank">ici</a> !
 
 ## Ce que tu peux trouver ici 📖
 Tu souhaites jeter un coup d'oeil dans mes dépôts ? Voici un petit sommaire des choses à voir. 👇
